@@ -1,0 +1,46 @@
+                      Yasmina Awled Ali
+                      Etudiante
+                      Etudiante en 2éme année de mastère professionnel en Data science , passionnée par ce domaine. cherche
+                un stage de projet de ﬁn d'études pour développer mes compéte
+                                         yasminaouledali@gmail.com             94538718
+
+
+EDUCATION                                                           COMPÉTENCES TECHNIQUES
+Mastère profesionnel en Data Science                                 Python        SQL       Machine Learning          Power BI
+Institut Supérieur des Langues Appliquées et
+Informatique de Béja
+09/2022 - Present,
+
+                                                                    PROJECTS ACADÉMIQUES
+Licence nationale en sciences de
+                                                                    Prédiction de diabète
+l'informatique                                                        Prédiction la probabilité du diabète en utilisant des modèles de
+Institut Supérieur des Langues Appliquées et                          Machine learning
+Informatique de Béja
+09/2019 - 06/2022,                                                  Prédiction des niveaux de compétence des étudiants
+                                                                      Construction de modèles d'apprentissage permettant de prédire
+                                                                      les nivaux de compétence des étudiants
+Baccalauréat en sciences de l'informatique
+Lycée 02 Mars 1934 - Tabarka
+2019,
+                                                                    LANGUES
+                                                                    Arabe
+
+EXPERIENCE                                                          Francais
+
+Stage de projet de ﬁn d'études                                      Anglais
+Société Tunisienne du Sucre
+02/2022 - 05/2022,
+Tâches
+  Conception et développement d'une application web de              INTERESTS
+  gestion de factures en utilisant le framework Django.
+                                                                     Interest
+
+Stage de projet de ﬁn d'année
+Société Tunisienne du Sucre
+05/2022 - 06/2022,
+Tâches
+  Conception et développement d'une application web de
+  gestion de parc informatique en utilisant :
+  HTML/CSS/Javascript/Bootstrao/PHP.
+
